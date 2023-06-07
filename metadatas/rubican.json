@@ -1,7 +1,7 @@
 {
   "description": "Rubic staking NFT collection",
   "external_url": "https://app.rubic.exchange/",
-  "image": "",
+  "image": "https://github.com/Cryptorubic/NFT-metadata/blob/develop/images/staking_GIF_NFT_1.gif?raw=true",
   "name": "Rubican",
   "attributes": []
 }
